@@ -1,0 +1,67 @@
+@host = http://localhost:5219
+
+### NOTE: PlayersController currently has no POST/create endpoint.
+### Only GET, PATCH, and DELETE exist for Players. Use the ScoutingSource
+### POST below first (a source is required before a player can exist),
+### then insert players manually via the DB, or add a POST endpoint
+### to PlayersController if you want to create players through the API.
+
+### Create a scouting source (required to associate players with)
+POST {{host}}/api/scouting-sources
+Content-Type: application/json
+
+{
+  "name": "Test Source"
+}
+
+###
+
+### Get all players (default paging)
+GET {{host}}/api/players
+Accept: application/json
+
+###
+
+### Get players with filters, sorting, and paging
+GET {{host}}/api/players?position=Forward&sortBy=marketvalue_desc&pageNumber=1&pageSize=5
+Accept: application/json
+
+###
+
+### Get a single player by id
+GET {{host}}/api/players/1
+Accept: application/json
+
+###
+
+### Update (partial) a player
+PATCH {{host}}/api/players/1
+Content-Type: application/json
+
+{
+  "estimatedMarketValue": 120.0,
+  "availabilityStatus": "Transfer Target"
+}
+
+###
+
+### Delete a player
+DELETE {{host}}/api/players/3
+
+###
+
+### Get all scouting sources (with their players included)
+GET {{host}}/api/scouting-sources
+Accept: application/json
+
+###
+
+### Get the club summary
+GET {{host}}/api/analytics/club-summary
+Accept: application/json
+
+### Get the Position Summary
+GET {{host}}/api/analytics/position-summary
+Accept: application/json
+
+###
