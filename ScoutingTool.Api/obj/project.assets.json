@@ -2671,11 +2671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mk_mo\\OneDrive\\Desktop\\Catalog Aggregator API\\ScoutingTool.Api\\ScoutingTool.Api.csproj",
+      "projectUniqueName": "c:\\Users\\mk_mo\\OneDrive\\Desktop\\Catalog Aggregator API\\ScoutingTool.Api\\ScoutingTool.Api.csproj",
       "projectName": "ScoutingTool.Api",
-      "projectPath": "C:\\Users\\mk_mo\\OneDrive\\Desktop\\Catalog Aggregator API\\ScoutingTool.Api\\ScoutingTool.Api.csproj",
+      "projectPath": "c:\\Users\\mk_mo\\OneDrive\\Desktop\\Catalog Aggregator API\\ScoutingTool.Api\\ScoutingTool.Api.csproj",
       "packagesPath": "C:\\Users\\mk_mo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mk_mo\\OneDrive\\Desktop\\Catalog Aggregator API\\ScoutingTool.Api\\obj\\",
+      "outputPath": "c:\\Users\\mk_mo\\OneDrive\\Desktop\\Catalog Aggregator API\\ScoutingTool.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mk_mo\\AppData\\Roaming\\NuGet\\NuGet.Config"

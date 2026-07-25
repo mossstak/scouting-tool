@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScoutingTool.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+522c0d5ad5f4e69127d33cdc908399d0c9614e11")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a57253ea044a6bca0de148835c118ead5f26a400")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScoutingTool.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScoutingTool.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tPf/1sFcVzU=",
+  "dgSpecHash": "1PSOa7/wSic=",
   "success": true,
-  "projectFilePath": "c:\\Users\\mk_mo\\OneDrive\\Desktop\\Catalog Aggregator API\\ScoutingTool.Api\\ScoutingTool.Api.csproj",
+  "projectFilePath": "C:\\Users\\mk_mo\\OneDrive\\Desktop\\Catalog Aggregator API\\ScoutingTool.Api\\ScoutingTool.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mk_mo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\mk_mo\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\10.0.10\\microsoft.aspnetcore.authentication.jwtbearer.10.0.10.nupkg.sha512",

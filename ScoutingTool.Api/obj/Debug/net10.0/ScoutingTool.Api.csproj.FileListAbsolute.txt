@@ -7,7 +7,9 @@ C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debu
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\ScoutingTool.Api.dll
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\ScoutingTool.Api.pdb
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Humanizer.dll
+C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.Build.Framework.dll
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -19,7 +21,14 @@ C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debu
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.Extensions.Caching.Hybrid.dll
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Mono.TextTemplating.dll
@@ -33,6 +42,7 @@ C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debu
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\System.Composition.Hosting.dll
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\System.Composition.Runtime.dll
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -106,6 +116,7 @@ C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\obj\Debu
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\obj\Debug\net10.0\ScoutingTool.Api.csproj.CoreCompileInputs.cache
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\obj\Debug\net10.0\ScoutingTool.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\obj\Debug\net10.0\ScoutingTool.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\obj\Debug\net10.0\ScoutingTool.Api.sourcelink.json
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -121,13 +132,3 @@ C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\obj\Debu
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\obj\Debug\net10.0\ScoutingTool.Api.pdb
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\obj\Debug\net10.0\ScoutingTool.Api.genruntimeconfig.cache
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\obj\Debug\net10.0\ref\ScoutingTool.Api.dll
-C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.Extensions.Caching.Hybrid.dll
-C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
-C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll

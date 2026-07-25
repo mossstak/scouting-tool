@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mk_mo\\OneDrive\\Desktop\\Catalog Aggregator API\\ScoutingTool.Api\\ScoutingTool.Api.csproj": {}
+    "C:\\Users\\mk_mo\\OneDrive\\Desktop\\Catalog Aggregator API\\ScoutingTool.Api\\ScoutingTool.Api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mk_mo\\OneDrive\\Desktop\\Catalog Aggregator API\\ScoutingTool.Api\\ScoutingTool.Api.csproj": {
+    "C:\\Users\\mk_mo\\OneDrive\\Desktop\\Catalog Aggregator API\\ScoutingTool.Api\\ScoutingTool.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mk_mo\\OneDrive\\Desktop\\Catalog Aggregator API\\ScoutingTool.Api\\ScoutingTool.Api.csproj",
+        "projectUniqueName": "C:\\Users\\mk_mo\\OneDrive\\Desktop\\Catalog Aggregator API\\ScoutingTool.Api\\ScoutingTool.Api.csproj",
         "projectName": "ScoutingTool.Api",
-        "projectPath": "c:\\Users\\mk_mo\\OneDrive\\Desktop\\Catalog Aggregator API\\ScoutingTool.Api\\ScoutingTool.Api.csproj",
+        "projectPath": "C:\\Users\\mk_mo\\OneDrive\\Desktop\\Catalog Aggregator API\\ScoutingTool.Api\\ScoutingTool.Api.csproj",
         "packagesPath": "C:\\Users\\mk_mo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mk_mo\\OneDrive\\Desktop\\Catalog Aggregator API\\ScoutingTool.Api\\obj\\",
+        "outputPath": "C:\\Users\\mk_mo\\OneDrive\\Desktop\\Catalog Aggregator API\\ScoutingTool.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mk_mo\\AppData\\Roaming\\NuGet\\NuGet.Config"
