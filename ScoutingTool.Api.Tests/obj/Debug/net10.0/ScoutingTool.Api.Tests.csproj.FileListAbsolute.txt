@@ -437,3 +437,4 @@ C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api.tests\bi
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api.tests\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api.tests\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api.tests\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mk_mo\OneDrive\Desktop\Catalog Aggregator API\ScoutingTool.Api.tests\obj\Debug\net10.0\ScoutingTool.Api.Tests.sourcelink.json
