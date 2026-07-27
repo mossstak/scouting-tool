@@ -78,11 +78,16 @@ app.MapControllers();
 // Health check endpoint (moved off "/" so it doesn't conflict with Swagger root)
 app.MapGet("/health", () => "The App is running!");
 
-// Apply pending EF Core Migrations automatically on startup
+
 using (var scope = app.Services.CreateScope())
 {
     var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
-    dbContext.Database.Migrate();
+    
+    // Only apply relational EF migrations if connecting to a real relational DB (e.g. PostgreSQL)
+    if (dbContext.Database.IsRelational())
+    {
+        dbContext.Database.Migrate();
+    }
 }
 
 app.Run();
